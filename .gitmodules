@@ -1,0 +1,3 @@
+[submodule "scidoca"]
+  path = scidoca
+  url = https://github.com/vtrn988/scidoca.github.io
